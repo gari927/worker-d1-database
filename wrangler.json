@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "worker-d1-database",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a07c7141-5981-44e6-93ef-f592d4a7d476",
+      "database_name": "summer-resonance-7fbd-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
